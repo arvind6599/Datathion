@@ -4,4 +4,6 @@
 # Ada Library Information
 *.ali
 
-data/
+data/*
+
+!data/.gitkeep
